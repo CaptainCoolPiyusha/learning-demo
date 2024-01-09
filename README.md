@@ -1,4 +1,4 @@
 # learning-demo
 This is sample repository
 <br>
-Author: Piyusha Patil
+Author: Piyusha Patil [KIT]
